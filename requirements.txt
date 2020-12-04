@@ -1,0 +1,5 @@
+python version=3.8.6
+
+cv2=4.4.0.46            pip install opencv-python
+numpy=1.19.4            pip install numpy
+pyvirtualcam=0.2.0      pip install pyvirtualcam
