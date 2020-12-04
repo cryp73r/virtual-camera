@@ -4,3 +4,7 @@ Python Script for making camera lag while on Video Call/Conference like: Zoom, D
 First read obs-installation.txt and follow steps.
 
 Second make environment ready by installing all Python module mentioned in requirements.txt
+
+Till the time core.py is running, video will be modified.
+
+After running core.py wait for some time then switch on camera, and then switch to OBS-Camera
